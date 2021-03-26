@@ -416,19 +416,19 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Channel password</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanalens lösenord</translation>
     </message>
     <message>
         <source>Maximum users</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximalt antal användare</translation>
     </message>
     <message>
         <source>Channel name</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanalens namn</translation>
     </message>
     <message>
         <source>Inherited group members</source>
-        <translation type="unfinished"></translation>
+        <translation>Ärvda gruppmedlemar</translation>
     </message>
     <message>
         <source>Foreign group members</source>
@@ -436,15 +436,15 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Inherited channel members</source>
-        <translation type="unfinished"></translation>
+        <translation>Ärvda kanalmedlemar</translation>
     </message>
     <message>
         <source>Add members to group</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till medlemmar i gruppen</translation>
     </message>
     <message>
         <source>List of ACL entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista av ACL-poster</translation>
     </message>
 </context>
 <context>
@@ -578,18 +578,18 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>List of microphones</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista över mikrofoner</translation>
     </message>
     <message>
         <source>List of speakers</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista över högtalare</translation>
     </message>
 </context>
 <context>
     <name>ASIOInput</name>
     <message>
         <source>You need to select at least one microphone and one speaker source to use ASIO.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du måste välja minst en mikrofon och en högtalarkälla för att använda ASIO.</translation>
     </message>
     <message>
         <source>Opening selected ASIO device failed. No input will be done.</source>
@@ -624,19 +624,19 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>License agreement</source>
-        <translation type="unfinished"></translation>
+        <translation>Licensavtal</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Författare</translation>
     </message>
     <message>
         <source>Third-party license agreements</source>
-        <translation type="unfinished"></translation>
+        <translation>Licensavtal för tredjepart</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Mumble (%1)&lt;/h3&gt;&lt;p&gt;%3&lt;/p&gt;&lt;p&gt;&lt;b&gt;An Open Source, low-latency, high quality voice-chat utility&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;tt&gt;&lt;a href=&quot;%2&quot;&gt;%2&lt;/a&gt;&lt;/tt&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Mumble (%1)&lt;/h3&gt;&lt;p&gt;%3&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ett röstchattverktyg för spelare&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;tt&gt;&lt;a href=&quot;%2&quot;&gt;%2&lt;/a&gt;&lt;/tt&gt;&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Mumble (%1)&lt;/h3&gt;&lt;p&gt;%3&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ett verktyg för röstchatt med öppen källkod, låg latenstid och hög kvalitet&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;tt&gt;&lt;a href=&quot;%2&quot;&gt;%2&lt;/a&gt;&lt;/tt&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -959,11 +959,11 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>The idle action will be reversed upon any key or mouse button input</source>
-        <translation type="unfinished"></translation>
+        <translation>Den inaktiva åtgärden kommer att återföras vid alla tangent- eller musknappsinmatningar</translation>
     </message>
     <message>
         <source>Undo Idle action upon activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Ångra viloläge vid aktivitet</translation>
     </message>
     <message>
         <source>Audio input</source>
@@ -971,15 +971,15 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>&lt;b&gt;This is the input method to use for audio.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Detta är den inmatningsmetod som ska användas för ljud.&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Enable Opus&apos; low-delay mode when the quality is set to &lt;b&gt;64 kb/s&lt;/b&gt; or higher. </source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera Opus lågfördröjningsläge när kvaliteten är inställd på &lt;b&gt;64 kb/s&lt;/b&gt; eller högre. </translation>
     </message>
     <message>
         <source>If checked, Mumble will enable Opus&apos; low-delay mode when the quality is set to &lt;b&gt;64 kbit/s&lt;/b&gt; or higher. Low-delay mode decreases latency by &lt;b&gt;~15 milliseconds&lt;/b&gt; in the round trip. This mode may require an higher bitrate to preserve the same quality, in comparison with the music and VOIP modes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om markerat kommer Mumble att aktivera Opus lågfördröjningsläge när kvaliteten är inställd på &lt;b&gt;64 kbit/s&lt;/b&gt; eller högre. Lågfördröjningsläget minskar latensen med &lt;b&gt;~ 15 millisekunder&lt;/b&gt; i tur och retur. Detta läge kan kräva en högre bithastighet för att bevara samma kvalitet, jämfört med musik- och VOIP-lägen.</translation>
     </message>
     <message>
         <source>Allow low delay mode</source>
@@ -1003,7 +1003,7 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Both</source>
-        <translation type="unfinished"></translation>
+        <translation>Båda två</translation>
     </message>
     <message>
         <source>This controls the amount by which Speex will suppress noise.</source>
@@ -1058,11 +1058,11 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Audio system</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudsystem</translation>
     </message>
     <message>
         <source>Input device</source>
-        <translation type="unfinished"></translation>
+        <translation>Inmatningsenhet</translation>
     </message>
     <message>
         <source>Echo cancellation mode</source>
@@ -1098,19 +1098,19 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Audio per packet</source>
-        <translation type="unfinished">Ljud per paket</translation>
+        <translation>Ljud per paket</translation>
     </message>
     <message>
         <source>Quality of compression (peak bandwidth)</source>
-        <translation type="unfinished">Kvalitet av komprimering (höjdpunkt för bandbredd)</translation>
+        <translation>Kvalitet av komprimering (höjdpunkt för bandbredd)</translation>
     </message>
     <message>
         <source>Noise suppression</source>
-        <translation type="unfinished">Bullerdämpning</translation>
+        <translation>Bullerdämpning</translation>
     </message>
     <message>
         <source>Maximum amplification</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximal förstärkning</translation>
     </message>
     <message>
         <source>Transmission started sound</source>
@@ -1126,7 +1126,7 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Idle action</source>
-        <translation type="unfinished">Efteråtgärd</translation>
+        <translation>Inaktiv åtgärd</translation>
     </message>
     <message>
         <source>Access to the microphone was denied. Please allow Mumble to use the microphone by changing the settings in System Preferences -&gt; Security &amp; Privacy -&gt; Privacy -&gt; Microphone.</source>
@@ -1138,7 +1138,7 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Avaktiverat</translation>
+        <translation>Inaktiverad</translation>
     </message>
     <message>
         <source>Disable echo cancellation.</source>
@@ -1399,7 +1399,7 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>&lt;b&gt;This is the output method to use for audio.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Det här är utmatningsmetoden för att använda till ljudet&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attenuate other users while talking as Priority Speaker&lt;/b&gt;&lt;br /&gt;Mumble supports decreasing the volume of other users while you talk as the &lt;i&gt;Priority Speaker&lt;/i&gt; to avoid getting disturbed. Checking this checkbox will enable this feature.</source>
@@ -1411,7 +1411,7 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera</translation>
     </message>
     <message>
         <source>Attenuation</source>
@@ -1450,11 +1450,11 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Output system</source>
-        <translation type="unfinished"></translation>
+        <translation>Utmatningssystem</translation>
     </message>
     <message>
         <source>Output device</source>
-        <translation type="unfinished"></translation>
+        <translation>Utmatningsenhet</translation>
     </message>
     <message>
         <source>Default jitter buffer</source>
@@ -1462,7 +1462,7 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Volume of incoming speech</source>
-        <translation type="unfinished">Volym för inkommande tal</translation>
+        <translation>Volym för inkommande tal</translation>
     </message>
     <message>
         <source>Output delay</source>
@@ -1470,23 +1470,23 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Attenuation of other applications during speech</source>
-        <translation type="unfinished">Dämpning av andra program vid tal</translation>
+        <translation>Dämpning av andra applikationer under tal</translation>
     </message>
     <message>
         <source>Minimum distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Minsta avstånd</translation>
     </message>
     <message>
         <source>Maximum distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximalt avstånd</translation>
     </message>
     <message>
         <source>Minimum volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimal volym</translation>
     </message>
     <message>
         <source>Bloom</source>
-        <translation type="unfinished">Bloom</translation>
+        <translation>Bloom</translation>
     </message>
     <message>
         <source>Delay variance</source>
@@ -1494,7 +1494,7 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Packet loss</source>
-        <translation type="unfinished">Paketförluster</translation>
+        <translation>Paketförlust</translation>
     </message>
     <message>
         <source>Loopback</source>
@@ -2204,7 +2204,7 @@ Tala högt, som om du är irriterad eller upphetsad. Minska volymen i kontrollpa
     </message>
     <message>
         <source>IP Address</source>
-        <translation type="unfinished">IP adress</translation>
+        <translation>IP-adress</translation>
     </message>
     <message>
         <source>Mask</source>
@@ -2302,7 +2302,7 @@ Tala högt, som om du är irriterad eller upphetsad. Minska volymen i kontrollpa
     </message>
     <message>
         <source>Current certificate</source>
-        <translation type="unfinished">Nuvarande certifikat</translation>
+        <translation>Nuvarande certifikat</translation>
     </message>
     <message>
         <source>Certificate file to import</source>
@@ -2314,11 +2314,11 @@ Tala högt, som om du är irriterad eller upphetsad. Minska volymen i kontrollpa
     </message>
     <message>
         <source>Certificate to import</source>
-        <translation type="unfinished">Certifikat att importera</translation>
+        <translation>Certifikat att importera</translation>
     </message>
     <message>
         <source>New certificate</source>
-        <translation type="unfinished">Nytt certifikat</translation>
+        <translation>Nytt certifikat</translation>
     </message>
     <message>
         <source>File to export certificate to</source>
@@ -2948,7 +2948,7 @@ Are you sure you wish to replace your certificate?
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -2964,7 +2964,7 @@ Are you sure you wish to replace your certificate?
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished">Alla</translation>
+        <translation>Alla</translation>
     </message>
     <message>
         <source>Africa</source>
@@ -3000,7 +3000,7 @@ Are you sure you wish to replace your certificate?
     </message>
     <message>
         <source>C&amp;onnect</source>
-        <translation type="unfinished">&amp;Anslut</translation>
+        <translation>&amp;Anslut</translation>
     </message>
     <message>
         <source>Adding host %1</source>
@@ -3394,7 +3394,7 @@ Without this option enabled, using Mumble&apos;s global shortcuts in privileged 
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Lägg till</translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Remove the currently selected items</source>
@@ -3402,7 +3402,7 @@ Without this option enabled, using Mumble&apos;s global shortcuts in privileged 
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ta bort</translation>
+        <translation>Ta bort</translation>
     </message>
 </context>
 <context>
@@ -3527,7 +3527,7 @@ Without this option enabled, using Mumble&apos;s global shortcuts in privileged 
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished">Kanal</translation>
+        <translation>Kanal</translation>
     </message>
 </context>
 <context>
@@ -3800,7 +3800,7 @@ Detta fält beskriver storleken av en LCD-enhet. Storleken mäts i pixlar (för 
     </message>
     <message>
         <source>Text message</source>
-        <translation type="unfinished">Textmeddelande</translation>
+        <translation>Textmeddelande</translation>
     </message>
     <message>
         <source>You joined channel</source>
@@ -6188,7 +6188,7 @@ kanalens innehållsmeny.</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished">Kanal</translation>
+        <translation>Kanal</translation>
     </message>
     <message>
         <source>Private</source>
@@ -6370,7 +6370,7 @@ Valid options are:
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Tillstånd</translation>
     </message>
     <message>
         <source>Unhinge</source>
@@ -6386,7 +6386,7 @@ Valid options are:
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished">Visa</translation>
+        <translation>Visa</translation>
     </message>
     <message>
         <source>How long silent user&apos;s positions should stay marked after they have stopped talking (in seconds).</source>
@@ -7240,11 +7240,11 @@ See &lt;a href=&quot;https://wiki.mumble.info/wiki/Installing_Mumble&quot;&gt;th
     </message>
     <message>
         <source>Local Mute</source>
-        <translation type="unfinished">Blockera ljud (lokalt)</translation>
+        <translation>Blockerat lokalt ljud</translation>
     </message>
     <message>
         <source>Ignore Messages</source>
-        <translation type="unfinished">Ignorera meddelanden</translation>
+        <translation>Ignorera meddelanden</translation>
     </message>
     <message>
         <source>Disable Text-To-Speech</source>
@@ -7256,7 +7256,7 @@ See &lt;a href=&quot;https://wiki.mumble.info/wiki/Installing_Mumble&quot;&gt;th
     </message>
     <message>
         <source>Local Volume Adjustment...</source>
-        <translation type="unfinished">Lokal volymjustering</translation>
+        <translation>Lokal volymjustering...</translation>
     </message>
     <message>
         <source>&lt;p&gt;You&apos;re using a Mumble version that &lt;b&gt;explicitly disabled&lt;/b&gt; update-checks.&lt;/p&gt;&lt;p&gt;This means that the update notification you might receive by using this option will &lt;b&gt;most likely be meaningless&lt;/b&gt; for you.&lt;/p&gt;</source>
@@ -7320,7 +7320,7 @@ See &lt;a href=&quot;https://wiki.mumble.info/wiki/Installing_Mumble&quot;&gt;th
     </message>
     <message>
         <source>Default Device</source>
-        <translation type="unfinished">Standardenhet</translation>
+        <translation>Standardenhet</translation>
     </message>
     <message>
         <source>This option works best when using built-in microphone and speaker.</source>
@@ -7340,7 +7340,7 @@ See &lt;a href=&quot;https://wiki.mumble.info/wiki/Installing_Mumble&quot;&gt;th
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Avaktiverat</translation>
+        <translation>Inaktiverad</translation>
     </message>
     <message>
         <source>Echo cancellation is disabled.</source>
@@ -7377,7 +7377,7 @@ See &lt;a href=&quot;https://wiki.mumble.info/wiki/Installing_Mumble&quot;&gt;th
     </message>
     <message>
         <source>Invocation</source>
-        <translation type="unfinished">Anropande</translation>
+        <translation>Anropande</translation>
     </message>
 </context>
 <context>
@@ -7632,7 +7632,7 @@ See &lt;a href=&quot;https://wiki.mumble.info/wiki/Installing_Mumble&quot;&gt;th
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Meddelande</translation>
+        <translation>Meddelande</translation>
     </message>
 </context>
 <context>
@@ -8173,7 +8173,7 @@ En token är en textsträng, som kan användas som ett lösenord för enkel till
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Tillstånd</translation>
     </message>
     <message>
         <source>Valid from: %1</source>
@@ -8205,7 +8205,7 @@ En token är en textsträng, som kan användas som ett lösenord för enkel till
     </message>
     <message>
         <source>Digest (SHA-256): %1</source>
-        <translation type="unfinished">Klassificering (SHA-1): %1 {256)?}</translation>
+        <translation>Klassificering (SHA-1): %1 {256)?}</translation>
     </message>
     <message>
         <source>Email: %1</source>
